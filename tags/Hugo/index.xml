@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 萝卜头LJW的博客</title><link>https://robotljw.github.io/tags/Hugo/</link><description>Recent content in Hugo on 萝卜头LJW的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://robotljw.github.io/tags/Hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>maupassant主题如何修改favicon</title><link>https://robotljw.github.io/post/2022-9-27-maupassant-favicon/</link><pubDate>Tue, 27 Sep 2022 00:00:00 +0800</pubDate><guid>https://robotljw.github.io/post/2022-9-27-maupassant-favicon/</guid><description>0. 序言 0.1 本文的目录 0.2 阅读本文可以给你带来什么 可以为Hugo maupassant主题修改favicon。 1. 工具 1.美图秀秀 2.icongen 2. 切换favicon 2.1 制作个人专属图标 新建白色画布，然后添加文字，选择自己喜欢的字体，如下图所示。 2.2 制作favicon 将图片上传至 https://cthedot.de/icongen/#output 下载压缩包解压后的图片如下</description></item><item><title>博客自动化部署</title><link>https://robotljw.github.io/post/2022-7-6-auto-deploy-blog/</link><pubDate>Wed, 06 Jul 2022 19:57:55 +0800</pubDate><guid>https://robotljw.github.io/post/2022-7-6-auto-deploy-blog/</guid><description>0. 序言 0.1 本文的目录 0.2 阅读本文可以给你带来什么 实现个人HUGO博客在github自动化部署。 1. 前置条件 1.1 开通自己的github.io库 名字建议: 用户名.github.io 1.2 开通自己的blog私库 1.3 保存个人的access token 生成个人的access token记得保持一下，这个access</description></item><item><title>Hugo搭建个人博客</title><link>https://robotljw.github.io/post/2020-3-5-hugo-blog/</link><pubDate>Thu, 05 Mar 2020 00:37:05 +0800</pubDate><guid>https://robotljw.github.io/post/2020-3-5-hugo-blog/</guid><description>0. 序言 0.1 本文的目录 0.2 阅读本文可以给你带来什么 使用Hugo来搭建个人的博客。 1. Hugo简介 Hugo是由Go语言实现的静态网站生成器。 官网介绍：Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. 2. Hugo下载 可以下载二进制包，地址：https://github.com/gohugo</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 萝卜头LJW的博客</title><link>https://robotljw.github.io/tags/Hugo/</link><description>Recent content in Hugo on 萝卜头LJW的博客</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://robotljw.github.io/tags/Hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>maupassant主题如何修改favicon</title><link>https://robotljw.github.io/post/2022-9-27-maupassant-favicon/</link><pubDate>Tue, 27 Sep 2022 00:00:00 +0800</pubDate><guid>https://robotljw.github.io/post/2022-9-27-maupassant-favicon/</guid><description>&lt;h2 id="0-序言"&gt;0. 序言&lt;/h2&gt;
+&lt;h3 id="01-本文的目录"&gt;0.1 本文的目录&lt;/h3&gt;
+&lt;p&gt;
+ &lt;a data-fancybox="gallery" href="../../img/2022-9-27-maupassant-favicon/outline.png"&gt;
+ &lt;img class="mx-auto" alt="" src="../../img/2022-9-27-maupassant-favicon/outline.png" /&gt;
+ &lt;/a&gt;
+ &lt;/p&gt;</description></item><item><title>博客自动化部署</title><link>https://robotljw.github.io/post/2022-7-6-auto-deploy-blog/</link><pubDate>Wed, 06 Jul 2022 19:57:55 +0800</pubDate><guid>https://robotljw.github.io/post/2022-7-6-auto-deploy-blog/</guid><description>&lt;h2 id="0-序言"&gt;0. 序言&lt;/h2&gt;
+&lt;h3 id="01-本文的目录"&gt;0.1 本文的目录&lt;/h3&gt;
+&lt;p&gt;
+ &lt;a data-fancybox="gallery" href="../../img/2022-7-6-auto-deploy-blog/auto-deploy.png"&gt;
+ &lt;img class="mx-auto" alt="" src="../../img/2022-7-6-auto-deploy-blog/auto-deploy.png" /&gt;
+ &lt;/a&gt;
+ &lt;/p&gt;</description></item><item><title>Hugo搭建个人博客</title><link>https://robotljw.github.io/post/2020-3-5-hugo-blog/</link><pubDate>Thu, 05 Mar 2020 00:37:05 +0800</pubDate><guid>https://robotljw.github.io/post/2020-3-5-hugo-blog/</guid><description>&lt;h2 id="0-序言"&gt;0. 序言&lt;/h2&gt;
+&lt;h3 id="01-本文的目录"&gt;0.1 本文的目录&lt;/h3&gt;
+&lt;p&gt;
+ &lt;a data-fancybox="gallery" href="../../img/2020-3-5-hugo-blog/outline.png"&gt;
+ &lt;img class="mx-auto" alt="" src="../../img/2020-3-5-hugo-blog/outline.png" /&gt;
+ &lt;/a&gt;
+ &lt;/p&gt;</description></item></channel></rss>
