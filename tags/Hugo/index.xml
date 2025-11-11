@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 萝卜头LJW的博客</title><link>https://robotljw.github.io/tags/Hugo/</link><description>Recent content in Hugo on 萝卜头LJW的博客</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://robotljw.github.io/tags/Hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>maupassant主题如何修改favicon</title><link>https://robotljw.github.io/post/2022-9-27-maupassant-favicon/</link><pubDate>Tue, 27 Sep 2022 00:00:00 +0800</pubDate><guid>https://robotljw.github.io/post/2022-9-27-maupassant-favicon/</guid><description>&lt;h2 id="0-序言"&gt;0. 序言&lt;/h2&gt;
-&lt;h3 id="01-本文的目录"&gt;0.1 本文的目录&lt;/h3&gt;
-&lt;p&gt;
- &lt;a data-fancybox="gallery" href="../../img/2022-9-27-maupassant-favicon/outline.png"&gt;
- &lt;img class="mx-auto" alt="" src="../../img/2022-9-27-maupassant-favicon/outline.png" /&gt;
- &lt;/a&gt;
- &lt;/p&gt;</description></item><item><title>博客自动化部署</title><link>https://robotljw.github.io/post/2022-7-6-auto-deploy-blog/</link><pubDate>Wed, 06 Jul 2022 19:57:55 +0800</pubDate><guid>https://robotljw.github.io/post/2022-7-6-auto-deploy-blog/</guid><description>&lt;h2 id="0-序言"&gt;0. 序言&lt;/h2&gt;
-&lt;h3 id="01-本文的目录"&gt;0.1 本文的目录&lt;/h3&gt;
-&lt;p&gt;
- &lt;a data-fancybox="gallery" href="../../img/2022-7-6-auto-deploy-blog/auto-deploy.png"&gt;
- &lt;img class="mx-auto" alt="" src="../../img/2022-7-6-auto-deploy-blog/auto-deploy.png" /&gt;
- &lt;/a&gt;
- &lt;/p&gt;</description></item><item><title>Hugo搭建个人博客</title><link>https://robotljw.github.io/post/2020-3-5-hugo-blog/</link><pubDate>Thu, 05 Mar 2020 00:37:05 +0800</pubDate><guid>https://robotljw.github.io/post/2020-3-5-hugo-blog/</guid><description>&lt;h2 id="0-序言"&gt;0. 序言&lt;/h2&gt;
-&lt;h3 id="01-本文的目录"&gt;0.1 本文的目录&lt;/h3&gt;
-&lt;p&gt;
- &lt;a data-fancybox="gallery" href="../../img/2020-3-5-hugo-blog/outline.png"&gt;
- &lt;img class="mx-auto" alt="" src="../../img/2020-3-5-hugo-blog/outline.png" /&gt;
- &lt;/a&gt;
- &lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 萝卜头的博客</title><link>https://robotljw.github.io/tags/Hugo/</link><description>Recent content in Hugo on 萝卜头的博客</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://robotljw.github.io/tags/Hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>maupassant主题如何修改favicon</title><link>https://robotljw.github.io/post/2022-9-27-maupassant-favicon/</link><pubDate>Tue, 27 Sep 2022 00:00:00 +0800</pubDate><guid>https://robotljw.github.io/post/2022-9-27-maupassant-favicon/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;记录修改Hugo maupassant主题的favicon。&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>博客自动化部署</title><link>https://robotljw.github.io/post/2022-7-6-auto-deploy-blog/</link><pubDate>Wed, 06 Jul 2022 19:57:55 +0800</pubDate><guid>https://robotljw.github.io/post/2022-7-6-auto-deploy-blog/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;通过本文记录个人博会在github自动化部署。&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Hugo搭建个人博客</title><link>https://robotljw.github.io/post/2020-3-5-hugo-blog/</link><pubDate>Thu, 05 Mar 2020 00:37:05 +0800</pubDate><guid>https://robotljw.github.io/post/2020-3-5-hugo-blog/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;通过本文记录使用Hugo搭建萝卜头的博客。&lt;/p&gt;
+&lt;/blockquote&gt;</description></item></channel></rss>
